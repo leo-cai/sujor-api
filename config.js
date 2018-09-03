@@ -25,20 +25,12 @@ const CONF = {
   /**
    * MySQL配置
    */
-  // mysql: {
-  //   host: 'localhost',
-  //   port: 3306,
-  //   user: 'root',
-  //   db: 'sujordb',
-  //   pass: '',
-  //   char: 'utf8mb4'
-  // },
   mysql: {
     host: 'localhost',
     port: 3306,
     user: 'root',
     db: 'sujordb',
-    pass: 'My717622336',
+    pass: '',
     char: 'utf8mb4'
   },
 
